@@ -4,6 +4,7 @@ Predicting survival on the Titanic using classification algorithms.
 
 ## 📊 Dataset
 - Source: [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic)
+- You can download them (https://www.kaggle.com/competitions/titanic/data)
 
 ## 🧠 Workflow
 - Exploratory Data Analysis (EDA)
